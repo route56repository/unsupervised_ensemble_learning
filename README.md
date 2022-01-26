@@ -21,3 +21,5 @@ All files are written in MATLAB R2020b. The file names containing '_main' are ke
   * *estimate_class_imbalance_restricted_likelihood.m*: estimates the instances' class imbalance
   * *estimate_rank_1_matrix.m*: (already listed)
   * *tracemin.m*: (already listed)
+
+For any enquiries on the 'Unsupervised Ensemble Learning' repository, please contact marti.llobet@upc.edu.
